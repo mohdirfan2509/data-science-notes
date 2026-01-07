@@ -7,4 +7,6 @@ while i>0:
 else :
     print("while loop successfully executed")
 
+print("Hello world")
+
 

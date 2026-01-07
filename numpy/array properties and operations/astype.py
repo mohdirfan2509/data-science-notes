@@ -4,6 +4,6 @@
 import numpy as np
 
 flt_arr=np.array([1.2,3.45,2.6,7.8])
-print(flt_arr.dtype)
+print(flt_arr.dtype) # float64
 int_arr=flt_arr.astype(int)
-print(int_arr.dtype)
+print(int_arr.dtype) # int64
